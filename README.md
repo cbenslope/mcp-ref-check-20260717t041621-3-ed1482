@@ -1,2 +1,4 @@
-# mcp-ref-check-20260717t041621-3-ed1482
-Disposable dual-machine MCP default-ref consistency probe
+# MCP Ref Check
+
+run=20260717T041621-3-ed1482
+version=v1
