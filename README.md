@@ -1,4 +1,4 @@
 # MCP Ref Check
 
 run=20260717T041621-3-ed1482
-version=v1
+version=v2
